@@ -20,3 +20,4 @@ for price in prices[:10]:
     
 for i in range(len(names)):
     print(f'name - {names[i]}\nprice - {pricess[i]} rub\n---------------------')
+    
